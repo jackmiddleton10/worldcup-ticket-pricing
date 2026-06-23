@@ -21,7 +21,7 @@ This project is grounded in a classic capacity-constrained revenue management pr
 - Median resale price
 - Total listings count
 
-**Observation frequency:** Every 2 days from June 22, 2026 through each match's kickoff date
+**Observation frequency:** Twice a day from June 21, 2026 through each match's kickoff date
 
 **Games tracked (11 total):**
 
