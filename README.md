@@ -33,11 +33,11 @@ This project is grounded in a classic capacity-constrained revenue management pr
 | France vs Norway | Group Stage | High — top-ranked team |
 | Cape Verde vs Saudi Arabia | Group Stage | Low |
 | Spain vs Uruguay | Group Stage | High — #1 ranked team |
-| Mexico vs TBD | Round of 32 | High — host nation |
-| USA vs TBD | Round of 32 | High — host nation |
-| 1B vs 3EFGIJ | Round of 32 | Low — unknown teams |
-| Argentina vs TBD | Round of 32 | High — defending champion |
-| TBD vs TBD | Final | Speculative |
+| Mexico vs 3CEFHI (Ecuador) | Round of 32 | High — host nation |
+| USA vs 3BEFIJ (Bosnia) | Round of 32 | High — host nation |
+| 1B (Switzerland) vs 3EFGIJ (Algeria) | Round of 32 | Low — unknown teams |
+| Argentina vs 2H (Cape Verde) | Round of 32 | High — defending champion |
+| Winner 101 vs Winner 102 | Final | Speculative |
 
 ## Planned Analysis
 
