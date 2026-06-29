@@ -1,0 +1,12 @@
+game_id,team_1,team_2,date,kickoff_time,venue,city,country,capacity,round,host_nation,t1_fifa_rank,t2_fifa_rank,combined_rank,official_attentance,fill_rate
+G01,USA,Turkey,6/25/2026,7:00 PM,Los Angeles Stadium,Los Angeles,USA,"70,492",Group Stage,TRUE,17,22,39,70492,100.00%
+G02,Japan,Sweden,6/25/2026,6:00 PM,Dallas Stadium,Dallas,USA,"70,649",Group Stage,FALSE,18,38,56,70137,99.28%
+G03,Curacao,Ivory Coast,6/25/2026,4:00 PM,Philadelphia Stadium,Philadelphia,USA,"68,324",Group Stage,FALSE,82,33,115,68324,100.00%
+G04,France,Norway,6/26/2026,3:00 PM,Boston Stadium,Boston,USA,"64,146",Group Stage,FALSE,3,31,34,64146,100.00%
+G05,Cape Verde,Saudi Arabia,6/26/2026,7:00 PM,Houston Stadium,Houston,USA,"68,777",Group Stage,FALSE,67,61,128,68278,99.27%
+G06,Spain,Uruguay,6/26/2026,6:00 PM,Guadalajara Stadium,Guadalajara,Mexico,"45,664",Group Stage,FALSE,2,16,18,45065,98.69%
+G07,Mexico ,Ecuador,6/30/2026,7:00 PM,Mexico City Stadium,Mexico City,Mexico,"80,824",Round of 32,TRUE,14,23,37,,0.00%
+G08,USA,Bosnia and Herzegovina,7/1/2026,5:00 PM,San Francisco Bay Area Stadium,San Francisco,USA,"68,827",Round of 32,TRUE,17,64,81,,0.00%
+G09,Switzerland,Algeria,7/2/2026,8:00 PM,BC Place Vancouver,Vancouver,Canada,"52,497",Round of 32,FALSE,19,28,47,,0.00%
+G10,Argentina,Cape Verde ,7/3/2026,6:00 PM,Miami Stadium,Miami,USA,64478,Round of 32,FALSE,1,67,68,,0.00%
+G11,,,7/19/2026,,New York New Jersey Stadium,New York,USA,"80,663",Final,FALSE,,,0,,0.00%
