@@ -1,0 +1,153 @@
+game_id,observation_date,observation_time,days_to_kickoff,kickoff_date,team_1,team_1_actual,team_2,team_2_actual,round,venue,city,capacity,host_nation,t1_fifa_rank,t2_fifa_rank,combined_rank ,min_price,median_price,listings_count
+G01,6/21/2026,2:00 PM,4,6/25/2026,USA,USA,Turkey,Turkey,Group Stage,Los Angeles Stadium,Los Angeles,70492,TRUE,17,22,39,1035,2875,1324
+G02,6/21/2026,2:00 PM,4,6/25/2026,Japan,Japan,Sweden,Sweden,Group Stage,Dallas Stadium,Dallas,70649,FALSE,18,38,56,748,2243,433
+G03,6/21/2026,2:00 PM,4,6/25/2026,Curacao,Curacao,Ivory Coast,Ivory Coast,Group Stage,Philadelphia Stadium,Philadelphia,68324,FALSE,82,33,115,437,834,575
+G04,6/21/2026,2:00 PM,5,6/26/2026,France,France,Norway,Norway,Group Stage,Boston Stadium,Boston,64146,FALSE,3,31,34,1725,3450,365
+G05,6/21/2026,2:00 PM,5,6/26/2026,Cape Verde,Cape Verde,Saudi Arabia,Saudi Arabia,Group Stage,Houston Stadium,Houston,68777,FALSE,67,61,128,403,814,1042
+G06,6/21/2026,2:00 PM,5,6/26/2026,Spain,Spain,Uruguay,Uruguay,Group Stage,Guadalajara Stadium,Guadalajara,45664,FALSE,2,16,18,2013,4025,101
+G07,6/21/2026,2:00 PM,9,6/30/2026,Mexico,Mexico,3CEFHI,Ecuador,Round of 32,Mexico City Stadium,Mexico City,80824,TRUE,14,,14,2706,6800,281
+G08,6/21/2026,2:00 PM,10,7/1/2026,USA,USA,3BEFIJ,Bosnia and Herzegovina,Round of 32,San Francisco Bay Area Stadium,San Francisco,68827,TRUE,17,,17,2875,6400,1438
+G09,6/21/2026,2:00 PM,11,7/2/2026,1B,Switzerland,3EFGIJ,Algeria,Round of 32,BC Place Vancouver Vancouver,Vancouver,52497,FALSE,,,0,1035,2054,647
+G10,6/21/2026,2:00 PM,12,7/3/2026,1J,Argentina,2H,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,,1,3219,5750,946
+G11,6/21/2026,2:00 PM,28,7/19/2026,Winner 101 ,Winner 101 ,Winner 102,Winner 102,Final,New York New Jersey Stadium ,New York,80663,FALSE,,,0,12190,27140,426
+,,,,,,,,,,,,,FALSE,,,,,,
+G01,6/22/2026,10:00 AM,3,6/25/2026,USA,USA,Turkey,Turkey,Group Stage,Los Angeles Stadium,Los Angeles,70492,TRUE,17,22,39,1578,3703,1619
+G02,6/22/2026,10:00 AM,3,6/25/2026,Japan,Japan,Sweden,Sweden,Group Stage,Dallas Stadium,Dallas,70649,FALSE,18,38,56,978,2300,442
+G03,6/22/2026,10:00 AM,3,6/25/2026,Curacao,Curacao,Ivory Coast,Ivory Coast,Group Stage,Philadelphia Stadium,Philadelphia,68324,FALSE,82,33,115,449,880,443
+G04,6/22/2026,10:00 AM,4,6/26/2026,France,France,Norway,Norway,Group Stage,Boston Stadium,Boston,64146,FALSE,3,31,34,1725,3450,386
+G05,6/22/2026,10:00 AM,4,6/26/2026,Cape Verde,Cape Verde,Saudi Arabia,Saudi Arabia,Group Stage,Houston Stadium,Houston,68777,FALSE,67,61,128,469,955,628
+G06,6/22/2026,10:00 AM,4,6/26/2026,Spain,Spain,Uruguay,Uruguay,Group Stage,Guadalajara Stadium,Guadalajara,45664,FALSE,2,16,18,2070,3903,44
+G07,6/22/2026,10:00 AM,8,6/30/2026,Mexico,Mexico,3CEFHI,Ecuador,Round of 32,Mexico City Stadium,Mexico City,80824,TRUE,14,,14,3347,6785,265
+G08,6/22/2026,10:00 AM,9,7/1/2026,USA,USA,3BEFIJ,Bosnia and Herzegovina,Round of 32,San Francisco Bay Area Stadium,San Francisco,68827,TRUE,17,,17,3048,6325,835
+G09,6/22/2026,10:00 AM,10,7/2/2026,1B,Switzerland,3EFGIJ,Algeria,Round of 32,BC Place Vancouver,Vancouver,52497,FALSE,,,0,1486,3048,1257
+G10,6/22/2026,10:00 AM,11,7/3/2026,Argentina,Argentina,2H,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,,1,3163,5750,1046
+G11,6/22/2026,10:00 AM,27,7/19/2026,Winner 101 ,Winner 101 ,Winner 102,Winner 102,Final,New York New Jersey Stadium ,New York,80663,FALSE,,,0,17135,39448,398
+,,,,,,,,,,,,,FALSE,,,,,,
+G01,6/22/2026,2:00 PM,3,6/25/2026,USA,USA,Turkey,Turkey,Group Stage,Los Angeles Stadium,Los Angeles,70492,TRUE,17,22,39,966,2875,1205
+G02,6/22/2026,2:00 PM,3,6/25/2026,Japan,Japan,Sweden,Sweden,Group Stage,Dallas Stadium,Dallas,70649,FALSE,18,38,56,677,2300,419
+G03,6/22/2026,2:00 PM,3,6/25/2026,Curacao,Curacao,Ivory Coast,Ivory Coast,Group Stage,Philadelphia Stadium,Philadelphia,68324,FALSE,82,33,115,345,863,477
+G04,6/22/2026,2:00 PM,4,6/26/2026,France,France,Norway,Norway,Group Stage,Boston Stadium,Boston,64146,FALSE,3,31,34,1725,3439,379
+G05,6/22/2026,2:00 PM,4,6/26/2026,Cape Verde,Cape Verde,Saudi Arabia,Saudi Arabia,Group Stage,Houston Stadium,Houston,68777,FALSE,67,61,128,518,978,800
+G06,6/22/2026,2:00 PM,4,6/26/2026,Spain,Spain,Uruguay,Uruguay,Group Stage,Guadalajara Stadium,Guadalajara,45664,FALSE,2,16,18,2300,4025,116
+G07,6/22/2026,2:00 PM,8,6/30/2026,Mexico,Mexico,3CEFHI,Ecuador,Round of 32,Mexico City Stadium,Mexico City,80824,TRUE,14,,14,3347,6800,293
+G08,6/22/2026,2:00 PM,9,7/1/2026,USA,USA,3BEFIJ,Bosnia and Herzegovina,Round of 32,San Francisco Bay Area Stadium,San Francisco,68827,TRUE,17,,17,2875,6314,2378
+G09,6/22/2026,2:00 PM,10,7/2/2026,1B,Switzerland,3EFGIJ,Algeria,Round of 32,BC Place Vancouver,Vancouver,52497,FALSE,,,0,1486,3105,1276
+G10,6/22/2026,2:00 PM,11,7/3/2026,Argentina,Argentina,2H,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,,1,3163,5750,1071
+G11,6/22/2026,2:00 PM,27,7/19/2026,Winner 101 ,Winner 101 ,Winner 102,Winner 102,Final,New York New Jersey Stadium ,New York,80663,FALSE,,,0,,,
+,,,,,,,,,,,,,FALSE,,,,,,
+G01,6/23/2026,10:00 AM,2,6/25/2026,USA,USA,Turkey,Turkey,Group Stage,Los Angeles Stadium,Los Angeles,70492,TRUE,17,22,39,1150,2335,1087
+G02,6/23/2026,10:00 AM,2,6/25/2026,Japan,Japan,Sweden,Sweden,Group Stage,Dallas Stadium,Dallas,70649,FALSE,18,38,56,1093,2243,393
+G03,6/23/2026,10:00 AM,2,6/25/2026,Curacao,Curacao,Ivory Coast,Ivory Coast,Group Stage,Philadelphia Stadium,Philadelphia,68324,FALSE,82,33,115,385,920,375
+G04,6/23/2026,10:00 AM,3,6/26/2026,France,France,Norway,Norway,Group Stage,Boston Stadium,Boston,64146,FALSE,3,31,34,1955,3449,347
+G05,6/23/2026,10:00 AM,3,6/26/2026,Cape Verde,Cape Verde,Saudi Arabia,Saudi Arabia,Group Stage,Houston Stadium,Houston,68777,FALSE,67,61,128,489,1035,694
+G06,6/23/2026,10:00 AM,3,6/26/2026,Spain,Spain,Uruguay,Uruguay,Group Stage,Guadalajara Stadium,Guadalajara,45664,FALSE,2,16,18,2185,3794,107
+G07,6/23/2026,10:00 AM,7,6/30/2026,Mexico,Mexico,3CEFHI,Ecuador,Round of 32,Mexico City Stadium,Mexico City,80824,TRUE,14,,14,3565,6209,67
+G08,6/23/2026,10:00 AM,8,7/1/2026,USA,USA,3BEFIJ,Bosnia and Herzegovina,Round of 32,San Francisco Bay Area Stadium,San Francisco,68827,TRUE,17,,17,2185,6325,2738
+G09,6/23/2026,10:00 AM,9,7/2/2026,1B,Switzerland,3EFGIJ,Algeria,Round of 32,BC Place Vancouver,Vancouver,52497,FALSE,,,0,1100,2354,724
+G10,6/23/2026,10:00 AM,10,7/3/2026,Argentina,Argentina,2H,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,,1,3444,5793,338
+G11,6/23/2026,10:00 AM,26,7/19/2026,Winner 101 ,Winner 101 ,Winner 102,Winner 102,Final,New York New Jersey Stadium ,New York,80663,FALSE,,,0,18660,40566,376
+,,,,,,,,,,,,,,,,,,,
+G01,6/23/2026,4:00 PM,2,6/25/2026,USA,USA,Turkey,Turkey,Group Stage,Los Angeles Stadium,Los Angeles,70492,TRUE,17,22,39,1127,2300,202
+G02,6/23/2026,4:00 PM,2,6/25/2026,Japan,Japan,Sweden,Sweden,Group Stage,Dallas Stadium,Dallas,70649,FALSE,18,38,56,690,2185,255
+G03,6/23/2026,4:00 PM,2,6/25/2026,Curacao,Curacao,Ivory Coast,Ivory Coast,Group Stage,Philadelphia Stadium,Philadelphia,68324,FALSE,82,33,115,627,1298,363
+G04,6/23/2026,4:00 PM,3,6/26/2026,France,France,Norway,Norway,Group Stage,Boston Stadium,Boston,64146,FALSE,3,31,34,1725,3439,356
+G05,6/23/2026,4:00 PM,3,6/26/2026,Cape Verde,Cape Verde,Saudi Arabia,Saudi Arabia,Group Stage,Houston Stadium,Houston,68777,FALSE,67,61,128,730,1542,586
+G06,6/23/2026,4:00 PM,3,6/26/2026,Spain,Spain,Uruguay,Uruguay,Group Stage,Guadalajara Stadium,Guadalajara,45664,FALSE,2,16,18,1840,3829,89
+G07,6/23/2026,4:00 PM,7,6/30/2026,Mexico,Mexico,3CEFHI,Ecuador,Round of 32,Mexico City Stadium,Mexico City,80824,TRUE,14,,14,3312,5630,307
+G08,6/23/2026,4:00 PM,8,7/1/2026,USA,USA,3BEFIJ,Bosnia and Herzegovina,Round of 32,San Francisco Bay Area Stadium,San Francisco,68827,TRUE,17,,17,2473,5750,2512
+G09,6/23/2026,4:00 PM,9,7/2/2026,1B,Switzerland,3EFGIJ,Algeria,Round of 32,BC Place Vancouver,Vancouver,52497,FALSE,,,0,1493,3280,1268
+G10,6/23/2026,4:00 PM,10,7/3/2026,Argentina,Argentina,2H,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,,1,3393,5854,1164
+G11,6/23/2026,4:00 PM,26,7/19/2026,Winner 101 ,Winner 101 ,Winner 102,Winner 102,Final,New York New Jersey Stadium ,New York,80663,FALSE,,,0,13225,28750,407
+,,,,,,,,,`,,,,,,,,,,
+G01,6/24/2026,10:00 AM,1,6/25/2026,USA,USA,Turkey,Turkey,Group Stage,Los Angeles Stadium,Los Angeles,70492,TRUE,17,22,39,484,2197,95
+G02,6/24/2026,10:00 AM,1,6/25/2026,Japan,Japan,Sweden,Sweden,Group Stage,Dallas Stadium,Dallas,70649,FALSE,18,38,56,874,2013,385
+G03,6/24/2026,10:00 AM,1,6/25/2026,Curacao,Curacao,Ivory Coast,Ivory Coast,Group Stage,Philadelphia Stadium,Philadelphia,68324,FALSE,82,33,115,518,896,292
+G04,6/24/2026,10:00 AM,2,6/26/2026,France,France,Norway,Norway,Group Stage,Boston Stadium,Boston,64146,FALSE,3,31,34,1725,2993,253
+G05,6/24/2026,10:00 AM,2,6/26/2026,Cape Verde,Cape Verde,Saudi Arabia,Saudi Arabia,Group Stage,Houston Stadium,Houston,68777,FALSE,67,61,128,322,1093,654
+G06,6/24/2026,10:00 AM,2,6/26/2026,Spain,Spain,Uruguay,Uruguay,Group Stage,Guadalajara Stadium,Guadalajara,45664,FALSE,2,16,18,2560,3870,91
+G07,6/24/2026,10:00 AM,6,6/30/2026,Mexico,Mexico,3CEFHI,Ecuador,Round of 32,Mexico City Stadium,Mexico City,80824,TRUE,14,,14,3318,5750,232
+G08,6/24/2026,10:00 AM,7,7/1/2026,USA,USA,3BEFIJ,Bosnia and Herzegovina,Round of 32,San Francisco Bay Area Stadium,San Francisco,68827,TRUE,17,,17,2254,5951,779
+G09,6/24/2026,10:00 AM,8,7/2/2026,1B,Switzerland,3EFGIJ,Algeria,Round of 32,BC Place Vancouver,Vancouver,52497,FALSE,,,0,1053,2438,1142
+G10,6/24/2026,10:00 AM,9,7/3/2026,Argentina,Argentina,2H,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,,1,3450,5865,1172
+,,,,,,  ,,,,,,,,,,,,,
+G01,6/24/2026,10:00 PM,1,6/25/2026,USA,USA,Turkey,Turkey,Group Stage,Los Angeles Stadium,Los Angeles,70492,TRUE,17,22,39,920,2070,388
+G02,6/24/2026,10:00 PM,1,6/25/2026,Japan,Japan,Sweden,Sweden,Group Stage,Dallas Stadium,Dallas,70649,FALSE,18,38,56,920,1840,271
+G03,6/24/2026,10:00 PM,1,6/25/2026,Curacao,Curacao,Ivory Coast,Ivory Coast,Group Stage,Philadelphia Stadium,Philadelphia,68324,FALSE,82,33,115,391,805,204
+G04,6/24/2026,10:00 PM,2,6/26/2026,France,France,Norway,Norway,Group Stage,Boston Stadium,Boston,64146,FALSE,3,31,34,2202,4078,306
+G05,6/24/2026,10:00 PM,2,6/26/2026,Cape Verde,Cape Verde,Saudi Arabia,Saudi Arabia,Group Stage,Houston Stadium,Miami,68777,FALSE,67,61,128,431,1035,645
+G06,6/24/2026,10:00 PM,2,6/26/2026,Spain,Spain,Uruguay,Uruguay,Group Stage,Guadalajara Stadium,Guadalajara,45664,FALSE,2,16,18,2070,3766,68
+G07,6/24/2026,10:00 PM,6,6/30/2026,Mexico,Mexico,3CEFHI,Ecuador,Round of 32,Mexico City Stadium,Mexico City,80824,TRUE,14,,14,3621,8138,360
+G08,6/24/2026,10:00 PM,7,7/1/2026,USA,USA,3BEFIJ,Bosnia and Herzegovina,Round of 32,San Francisco Bay Area Stadium,San Francisco,68827,TRUE,17,,17,2185,5750,3169
+G09,6/24/2026,10:00 PM,8,7/2/2026,Switzerland,Switzerland,3EFGIJ,Algeria,Round of 32,BC Place Vancouver,Vancouver,52497,FALSE,19,,19,345,2750,196
+G10,6/24/2026,10:00 PM,9,7/3/2026,Argentina,Argentina,2H,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,,1,3450,5808,1227
+,,,,,,,,,,,,,,,,,,,
+G01,6/25/2026,10:00 AM,0,6/25/2026,USA,USA,Turkey,Turkey,Group Stage,Los Angeles Stadium,Los Angeles,70492,TRUE,17,22,39,805,1912,366
+G02,6/25/2026,10:00 AM,0,6/25/2026,Japan,Japan,Sweden,Sweden,Group Stage,Dallas Stadium,Dallas,70649,FALSE,18,38,56,805,1898,127
+G03,6/25/2026,10:00 AM,0,6/25/2026,Curacao,Curacao,Ivory Coast,Ivory Coast,Group Stage,Philadelphia Stadium,Philadelphia,68324,FALSE,82,33,115,403,690,117
+G04,6/25/2026,10:00 AM,1,6/26/2026,France,France,Norway,Norway,Group Stage,Boston Stadium,Boston,64146,FALSE,3,31,34,1349,3090,33
+G05,6/25/2026,10:00 AM,1,6/26/2026,Cape Verde,Cape Verde,Saudi Arabia,Saudi Arabia,Group Stage,Houston Stadium,Houston,68777,FALSE,67,61,128,471,1006,192
+G06,6/25/2026,10:00 AM,1,6/26/2026,Spain,Spain,Uruguay,Uruguay,Group Stage,Guadalajara Stadium,Guadalajara,45664,FALSE,2,16,18,2243,3094,66
+G07,6/25/2026,10:00 AM,5,6/30/2026,Mexico,Mexico,3CEFHI,Ecuador,Round of 32,Mexico City Stadium,Mexico City,80824,TRUE,14,,14,3450,5520,140
+G08,6/25/2026,10:00 AM,6,7/1/2026,USA,USA,3BEFIJ,Bosnia and Herzegovina,Round of 32,San Francisco Bay Area Stadium,San Francisco,68827,TRUE,17,,17,2070,4025,1140
+G09,6/25/2026,10:00 AM,7,7/2/2026,Switzerland,Switzerland,3EFGIJ,Algeria,Round of 32,BC Place Vancouver,Vancouver,52497,FALSE,19,,19,632,1725,1394
+G10,6/25/2026,10:00 AM,8,7/3/2026,Argentina,Argentina,2H,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,,1,3518,5836,400
+G11,6/25/2026,10:00 AM,24,7/19/2026,Winner 101 ,Winner 101 ,Winner 102,Winner 102,Final,New York New Jersey Stadium ,New York,80663,FALSE,,,0,15813,28750,143
+,,,,,,,,,,,,,,,,,,,
+G04,6/25/2026,11:00 PM,1,6/26/2026,France,France,Norway,Norway,Group Stage,Boston Stadium,Boston,64146,FALSE,3,31,34,1379,2953,226
+G05,6/25/2026,11:00 PM,1,6/26/2026,Cape Verde,Cape Verde,Saudi Arabia,Saudi Arabia,Group Stage,Houston Stadium,Houston,68777,FALSE,67,61,128,437,987,460
+G06,6/25/2026,11:00 PM,1,6/26/2026,Spain,Spain,Uruguay,Uruguay,Group Stage,Guadalajara Stadium,Guadalajara,45664,FALSE,2,16,18,2530,3450,71
+G07,6/25/2026,11:00 PM,5,6/30/2026,Mexico,Mexico,3CEFHI,Ecuador,Round of 32,Mexico City Stadium,Mexico City,80824,TRUE,14,,14,3105,5829,324
+G08,6/25/2026,11:00 PM,6,7/1/2026,USA,USA,3BEFIJ,Bosnia and Herzegovina,Round of 32,San Francisco Bay Area Stadium,San Francisco,68827,TRUE,17,,17,2135,4600,1129
+G09,6/25/2026,11:00 PM,7,7/2/2026,Switzerland,Switzerland,3EFGIJ,Algeria,Round of 32,BC Place Vancouver,Vancouver,52497,FALSE,19,,19,817,2415,415
+G10,6/25/2026,11:00 PM,8,7/3/2026,Argentina,Argentina,2H,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,,1,5057,8237,1260
+G11,6/25/2026,11:00 PM,24,7/19/2026,Winner 101 ,Winner 101 ,Winner 102,Winner 102,Final,New York New Jersey Stadium ,New York,80663,FALSE,,,0,,,
+,,,,,,,,,,,,,,,,,,,
+G05,6/26/2026,12:00 PM,0,6/26/2026,Cape Verde,Cape Verde,Saudi Arabia,Saudi Arabia,Group Stage,Houston Stadium,Houston,68777,FALSE,67,61,128,414,978,188
+G06,6/26/2026,12:00 PM,0,6/26/2026,Spain,Spain,Uruguay,Uruguay,Group Stage,Guadalajara Stadium,Guadalajara,45664,FALSE,2,16,18,1610,3590,14
+G07,6/26/2026,12:00 PM,4,6/30/2026,Mexico,Mexico,3CEFHI,Ecuador,Round of 32,Mexico City Stadium,Mexico City,80824,TRUE,14,,14,3081,6174,313
+G08,6/26/2026,12:00 PM,5,7/1/2026,USA,USA,Bosnia and Herzegovina,Bosnia and Herzegovina,Round of 32,San Francisco Bay Area Stadium,San Francisco,68827,TRUE,17,64,81,1725,4830,3054
+G09,6/26/2026,12:00 PM,6,7/2/2026,Switzerland,Switzerland,3EFGIJ,Algeria,Round of 32,BC Place Vancouver,Vancouver,52497,FALSE,19,,19,495,1495,2928
+G10,6/26/2026,12:00 PM,7,7/3/2026,Argentina,Argentina,2H,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,,1,3457,6038,1221
+G11,6/26/2026,12:00 PM,23,7/19/2026,Winner 101 ,Winner 101 ,Winner 102,Winner 102,Final,New York New Jersey Stadium ,New York,80663,FALSE,,,0,15761,29603,340
+,,,,,,,,,,,,,,,,,,,
+G07,6/27/2026,3:00 PM,3,6/30/2026,Mexico,Mexico,3CEFHI,Ecuador,Round of 32,Mexico City Stadium,Mexico City,80824,TRUE,14,,14,2939,5737,302
+G08,6/27/2026,3:00 PM,4,7/1/2026,USA,USA,Bosnia and Herzegovina,Bosnia and Herzegovina,Round of 32,San Francisco Bay Area Stadium,San Francisco,68827,TRUE,17,64,81,1541,3219,3534
+G09,6/27/2026,3:00 PM,5,7/2/2026,Switzerland,Switzerland,3EFGIJ,Algeria,Round of 32,BC Place Vancouver,Vancouver,52497,FALSE,19,,19,858,1962,817
+G10,6/27/2026,3:00 PM,6,7/3/2026,Argentina,Argentina,Cape Verde,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,67,68,2990,5461,1569
+G11,6/27/2026,3:00 PM,22,7/19/2026,Winner 101 ,Winner 101 ,Winner 102,Winner 102,Final,New York New Jersey Stadium ,New York,80663,FALSE,,,0,17981,40865,445
+,,,,,,,,,,,,,,,,,,,
+G07,6/28/2026,12:00 PM,2,6/30/2026,Mexico,Mexico,Ecuador,Ecuador,Round of 32,Mexico City Stadium,Mexico City,80824,TRUE,14,23,37,2939,4982,243
+G08,6/28/2026,12:00 PM,3,7/1/2026,USA,USA,Bosnia and Herzegovina,Bosnia and Herzegovina,Round of 32,San Francisco Bay Area Stadium,San Francisco,68827,TRUE,17,64,81,1150,4025,3053
+G09,6/28/2026,12:00 PM,4,7/2/2026,Switzerland,Switzerland,Algeria,Algeria,Round of 32,BC Place Vancouver,Vancouver,52497,FALSE,19,28,47,445,1150,2094
+G10,6/28/2026,12:00 PM,5,7/3/2026,Argentina,Argentina,Cape Verde,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,67,68,2645,5173,1737
+G11,6/28/2026,12:00 PM,21,7/19/2026,Winner 101 ,Winner 101 ,Winner 102,Winner 102,Final,New York New Jersey Stadium ,New York,80663,FALSE,,,0,14720,25300,417
+,,,,,,,,,,,,,,,,,,,
+G07,6/29/2026,10:00 AM,1,6/30/2026,Mexico,Mexico,Ecuador,Ecuador,Round of 32,Mexico City Stadium,Mexico City,80824,TRUE,14,23,37,494,4140,78
+G08,6/29/2026,10:00 AM,2,7/1/2026,USA,USA,Bosnia and Herzegovina,Bosnia and Herzegovina,Round of 32,San Francisco Bay Area Stadium,San Francisco,68827,TRUE,17,64,81,1214,3666,257
+G09,6/29/2026,10:00 AM,3,7/2/2026,Switzerland,Switzerland,Algeria,Algeria,Round of 32,BC Place Vancouver,Vancouver,52497,FALSE,19,28,47,425,1380,1016
+G10,6/29/2026,10:00 AM,4,7/3/2026,Argentina,Argentina,Cape Verde,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,67,68,2358,4600,1775
+G11,6/29/2026,10:00 AM,20,7/19/2026,Winner 101 ,Winner 101 ,Winner 102,Winner 102,Final,New York New Jersey Stadium ,New York,80663,FALSE,,,0,14720,33350,222
+,,,,,,,,,,,,,,,,,,,
+G07,6/29/2026,5:00 PM,1,6/30/2026,Mexico,Mexico,Ecuador,Ecuador,Round of 32,Mexico City Stadium,Mexico City,80824,TRUE,14,23,37,2459,4200,180
+G08,6/29/2026,5:00 PM,2,7/1/2026,USA,USA,Bosnia and Herzegovina,Bosnia and Herzegovina,Round of 32,San Francisco Bay Area Stadium,San Francisco,68827,TRUE,17,64,81,1265,3220,1027
+G09,6/29/2026,5:00 PM,3,7/2/2026,Switzerland,Switzerland,Algeria,Algeria,Round of 32,BC Place Vancouver,Vancouver,52497,FALSE,19,28,47,518,1323,4054
+G10,6/29/2026,5:00 PM,4,7/3/2026,Argentina,Argentina,Cape Verde,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,67,68,2358,4405,1797
+,,,,,,,,,,,,,FALSE,,,,,,
+G07,6/30/2026,10:00 AM,0,6/30/2026,Mexico,Mexico,Ecuador,Ecuador,Round of 32,Mexico City Stadium,Mexico City,80824,TRUE,14,23,37,2369,3641,92
+G08,6/30/2026,10:00 AM,1,7/1/2026,USA,USA,Bosnia and Herzegovina,Bosnia and Herzegovina,Round of 32,San Francisco Bay Area Stadium,San Francisco,68827,TRUE,17,64,81,1149,2530,2181
+G09,6/30/2026,10:00 AM,2,7/2/2026,Switzerland,Switzerland,Algeria,Algeria,Round of 32,BC Place Vancouver,Vancouver,52497,FALSE,19,28,47,518,1219,3976
+G10,6/30/2026,10:00 AM,3,7/3/2026,Argentina,Argentina,Cape Verde,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,67,68,3151,5779,1685
+G11,6/30/2026,10:00 AM,19,7/19/2026,Winner 101 ,Winner 101 ,Winner 102,Winner 102,Final,New York New Jersey Stadium ,New York,80663,FALSE,,,0,10925,26968,189
+,,,,,,,,,,,,,,,,,,,
+G08,7/1/2026,10:00 AM,0,7/1/2026,USA,USA,Bosnia and Herzegovina,Bosnia and Herzegovina,Round of 32,San Francisco Bay Area Stadium,San Francisco,68827,TRUE,17,64,81,1380,2760,481
+G09,7/1/2026,10:00 AM,1,7/2/2026,Switzerland,Switzerland,Algeria,Algeria,Round of 32,BC Place Vancouver,Vancouver,52497,FALSE,19,28,47,324,742,2823
+G10,7/1/2026,10:00 AM,2,7/3/2026,Argentina,Argentina,Cape Verde,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,67,68,1955,3436,1340
+G11,7/1/2026,10:00 AM,18,7/19/2026,Winner 101 ,Winner 101 ,Winner 102,Winner 102,Final,New York New Jersey Stadium ,New York,80663,FALSE,,,0,9200,25300,483
+,,,,,,,,,,,,,,,,,,,
+G09,7/2/2026,10:00 AM,0,7/2/2026,Switzerland,Switzerland,Algeria,Algeria,Round of 32,BC Place Vancouver,Vancouver,52497,FALSE,19,28,47,284,681,1537
+G10,7/2/2026,10:00 AM,1,7/3/2026,Argentina,Argentina,Cape Verde,Cape Verde,Round of 32,Miami Stadium,Miami,64478,FALSE,1,67,68,2029,3450,258
+G11,7/2/2026,10:00 AM,17,7/19/2026,Winner 101 ,Winner 101 ,Winner 102,Winner 102,Final,New York New Jersey Stadium ,New York,80663,FALSE,,,0,17136,35903,485
+,,,,,,,,,,,,,,,,,,,
+G11,7/7/2026,4:00 PM,12,7/19/2026,Winner 101 ,Winner 101 ,Winner 102,Winner 102,Final,New York New Jersey Stadium ,New York,80663,FALSE,,,0,10350,23000,378
+,,,,,,,,,,,,,,,,,,,
+G11,7/9/2026,1:00 PM,10,7/19/2026,Winner 101 ,Winner 101 ,Winner 102,Winner 102,Final,New York New Jersey Stadium ,New York,80663,FALSE,,,0,9200,20125,676
